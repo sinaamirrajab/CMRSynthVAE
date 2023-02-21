@@ -1,6 +1,8 @@
-# CMRISynthSeg
-SPADE synthesis with segmentation-based discriminator
+# CMRISyntVAE
+Label conditional synthesis with VAE based label deformation
+
+#
+Syntyhesis example for short-axis cardiac MR images with VAE based label deformation
+![](results\SA_Gif.gif)
 
 
-## Acknowledgments
-This code borrows heavily from [SPADE](https://github.com/NVlabs/SPADE.git) and [CLADE](https://github.com/tzt101/CLADE.git). 
